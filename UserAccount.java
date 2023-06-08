@@ -1,5 +1,5 @@
 //*************************************************************************
-// UserAccount.java
+//UserAccount.java
 //Date: 03/29/2023
 //Author: David Taylor
 //Purpose: Develop a Java application and create a user-defined Java class to maintain data about a user’s
