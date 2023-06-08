@@ -2,11 +2,9 @@
 // UserAccount.java
 //Date: 03/29/2023
 //Author: David Taylor
-//Class: CIT 149–19Z1–78178
-//Instructor: Krishna Nandanoor
-//Purpose: Develop a Java application where you will create a user-defined Java class to maintain data about a user’s
+//Purpose: Develop a Java application and create a user-defined Java class to maintain data about a user’s
 // credentials to log into an application or system. This will include a user’s name and password and an additional
-// piece of data to help with encryption. We will visit the Caesar cipher again.
+// piece of data to encrypt the password using a Caesar cipher.
 //*************************************************************************
 
 import java.util.Random;
